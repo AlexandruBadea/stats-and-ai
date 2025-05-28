@@ -6,6 +6,8 @@
 
 Cu ajutorul modelului **Gemma 3** de la Google, găzduit local prin Ollama, aplicația generează zilnic **recomandări scrise natural în limba română**: ce haine să porți, dacă e momentul potrivit pentru o plimbare în parc sau dacă ar trebui să iei umbrela cu tine. Totul bazat pe date reale despre temperatură, precipitații și umiditate.
 
+![Demo of MeteoAI](Images/stats-and-ai-gif.gif)
+
 ## 🔧 Tehnologii folosite
 
 ### 🐍 Backend – Python API modern și minimalist
@@ -51,6 +53,9 @@ Aplicația oferă date meteo și sfaturi AI pentru 5 mari orașe din România:
 - Precipitații zilnice
 - Umiditate minimă și maximă
 - Recomandări AI (pentru ziua de azi)
+
+![SS Temp](Images/temp.png)
+![SS Prec](Images/prec.png)
 
 ## 🚀 De ce e cool acest proiect?
 
